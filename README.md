@@ -95,12 +95,13 @@ You are free to share and adapt the materials, provided that appropriate credit 
 If you use or refer to these materials, please cite the repository as follows:
 
 ```bibtex
-@misc{yourname2025fibrelooprdm,
-  author       = {Your Name},
+@misc{Grouve2025-fibreloop-rdm,
+  author       = {Wouter Grouve},
   title        = {Research Data Management Workshop for FibReLoop},
   year         = {2025},
-  url          = {https://github.com/yourusername/fibreloop-rdm-workshop},
-  note         = {Slides and exercises for the Marie Curie FibReLoop training program},
-  howpublished = {\url{https://github.com/yourusername/fibreloop-rdm-workshop}}
+  url          = {https://github.com/wjbg/fibreloop},
+  note         = {Slides and exercises for the RDM workshop in the
+                  Marie Curie FibReLoop training program},
+  howpublished = {\url{https://github.com/wjbg/fibreloop}}}
 }
 ```
