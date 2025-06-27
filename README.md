@@ -103,5 +103,4 @@ If you use or refer to these materials, please cite the repository as follows:
   note         = {Slides and exercises for the RDM workshop in the
                   Marie Curie FibReLoop training program},
   howpublished = {\url{https://github.com/wjbg/fibreloop}}}
-}
 ```
